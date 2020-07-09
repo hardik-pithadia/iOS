@@ -1,0 +1,6 @@
+framework module Pods_LazyLoadingDemo {
+  umbrella header "Pods-LazyLoadingDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
